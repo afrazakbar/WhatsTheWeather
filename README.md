@@ -1,8 +1,9 @@
 # WhatsTheWeather
+![WTW](images/circuit.png)
 
 **WhatsTheWeather (WTW)** is a compact weather station built around an **ESP32 DevKit C**.
+   WTW Combines **Live weather data from the internet** with **Local temprature readings** from and onboard sensor. The data is displayed on an **OLED Screen**, While LEDS Provide a quick visual indication of the current weather temprature
 
-WTW combines **live weather data from the internet** with **local temperature readings** from an onboard sensor. The data is displayed on an **OLED screen**, while LEDs provide a quick visual indication of the current weather or temperature.
 ---
 ## Features
 
